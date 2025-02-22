@@ -4,7 +4,7 @@
     
     overflow:hidden;
     /* background-color: black; */
-    background-image: url("./loginimg.jpg");
+    background-image: url("../Images/loginimg.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     animation-name: ani;
@@ -168,7 +168,7 @@ input::placeholder
     /* color:white; */
     opacity:1.99;
     /* background-color: antiquewhite; */
-    background-image: url("./logo.png");
+    background-image: url("../Images/logo.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }

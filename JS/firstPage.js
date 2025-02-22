@@ -5,8 +5,8 @@ function fun2() {
 }
 
 function displayLogin(){
-    window.location.href = "travelLogin.html";
+    window.location.href = "./pages/travelLogin.html";
 }
 function displayHome(){
-    window.location.href="firstPage.html";
+    window.location.href="./pages/firstPage.html";
 }
